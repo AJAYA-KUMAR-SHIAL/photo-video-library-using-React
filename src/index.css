@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+*{
+    font-family: 'halvetica neue';
+}
+:root{
+    --c1:#25671E;
+    --c2:#09d116;
+    --c3:#C7EABB;
+    --c4:#E8F5BD;
+}
